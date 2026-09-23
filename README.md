@@ -27,7 +27,19 @@ This single `.pbix` file encapsulates the entire end-to-end data preparation wor
 *   **Power BI Desktop** (Data Visualization & Modeling)
 *   **Power Query Editor** (ETL - Extract, Transform, Load)
 
+
+
 ## How to View This Project
 1. Clone or download this repository to your local machine.
 2. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 3. Open the `Power BI Essentials.pbix` file to explore the data model, applied steps in Power Query, and table structures.
+
+
+## 👨‍💻 Author
+
+**Bayzid Mostak**<br>
+*Data Analyst & Visualization Expert*
+
+*   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
+*   [GitHub] https://github.com/TusharAlBayzid
+*   Note: Download the `.pbix` file and open it in Power BI Desktop to experience the fully interactive cross-filtering capabilities of this dashboard.
